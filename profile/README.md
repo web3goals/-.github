@@ -18,4 +18,4 @@ https://web3goals.space/
 
 ### Set a goal together with a staking
 
-![User flow / Set a goal together with a staking](images/user-flow-set-goal-with-staking.png)
+![User flow / Set a goal together with a staking](profile/images/user-flow-set-goal-with-staking.png)
