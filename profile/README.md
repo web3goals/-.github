@@ -4,11 +4,11 @@ A social space that motivates to achieve!
 
 ## ⚡ About
 
-An app in which a person can set a personal goal and stake ethers on it. If the goal is reached, he will return the stake, otherwise the ethers will be shared between people who have subscribed to this goal.
+Web3 Goals is an app in which a person can set a personal goal and stake funds on it. If the goal is achieved, he will return the stake, otherwise, the funds will be shared among the people who have become watchers of the goal.
 
-This solution will give person an external motivation not to lose money. He will be concerned about failed goals as non-transferable NFTs will be linked to his blockchain account.
+This solution will give person an external motivation not to lose money. He also will be concerned about failed goals which as non-transferable NFTs will be stored in his blockchain account.
 
-Also with oracles there may be goals that can be verified by a smart contract. So we be able to create contests with a large number of users.
+The app will also have journals, dashboards, private goals with friends and contests between people who want to achieve the same goal. These features will give people even more motivation and fun.
 
 ## 🔗 Application
 
