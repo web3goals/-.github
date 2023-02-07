@@ -14,8 +14,6 @@ The app will also have journals, dashboards, private goals with friends and cont
 
 https://web3goals.space/
 
-## 🌊 User flows
-
-### Set a goal together with a staking
+## 🌊 User flow / Set a goal together with a staking
 
 ![User flow / Set a goal together with a staking](profile/images/user-flow-set-goal-with-staking.png)
