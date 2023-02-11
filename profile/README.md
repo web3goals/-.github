@@ -17,3 +17,7 @@ https://web3goals.space/
 ## 🌊 User flow / Set a goal together with a staking
 
 ![User flow / Set a goal together with a staking](profile/images/user-flow-set-goal-with-staking.png)
+
+## 🏗️ Architecture
+
+![Architecture](profile/images/architecture.png)
