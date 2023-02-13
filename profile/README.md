@@ -4,11 +4,21 @@ A social space that motivates to achieve!
 
 ## ⚡ About
 
-Web3 Goals is an app in which a person can set a personal goal and stake funds on it. If the goal is achieved, he will return the stake, otherwise, the funds will be shared among the people who have become watchers of the goal.
+Web3 Goals is an space where a person can get extra social and financial motivation to achieve their own goals.
 
-This solution will give person an external motivation not to lose money. He also will be concerned about failed goals which as non-transferable NFTs will be stored in his blockchain account.
+It's not just an app. It is a space that is being created to help all of us become better developers, artists, entrepreneurs, athletes, people.
 
-The app will also have group marathons where people want to achieve the same goal, a journal to record steps towards the goal, notifications, private goals with friends, AI to motivate and visualise. These features will give people even more motivation and fun.
+We hope the following features help fulfill the mission:
+
+- Soulbound tokens that will motivate you to be more responsible about own goals.
+- Set a goal and stake funds on it, that will only come back if you succeed.
+- Sharing the stake between the people who started watching the goal and trying to motivate the author.
+- Goals that can be validated on-chain or off-chain.
+- Group marathons where people want to achieve the same goal.
+- Journal to record steps towards the goal.
+- AI that helps set goals and achieve them.
+- Private goals with friends.
+- And a lot more...
 
 ## 🔗 Application
 
