@@ -8,7 +8,7 @@ Web3 Goals is an app in which a person can set a personal goal and stake funds o
 
 This solution will give person an external motivation not to lose money. He also will be concerned about failed goals which as non-transferable NFTs will be stored in his blockchain account.
 
-The app will also have journals, dashboards, private goals with friends and contests between people who want to achieve the same goal. These features will give people even more motivation and fun.
+The app will also have group marathons where people want to achieve the same goal, a journal to record steps towards the goal, notifications, private goals with friends, AI to motivate and visualise. These features will give people even more motivation and fun.
 
 ## 🔗 Application
 
