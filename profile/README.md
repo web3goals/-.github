@@ -4,7 +4,7 @@ A social space that motivates to achieve!
 
 ## ⚡ About
 
-Web3 Goals is an space where a person can get extra social and financial motivation to achieve their own goals.
+Web3 Goals is a space that uses the power of web3 to give any person extra social and financial motivation to achieve their own goals.
 
 It's not just an app. It is a space that is being created to help all of us become better developers, artists, entrepreneurs, athletes, people.
 
