@@ -2,6 +2,11 @@
 
 A social space that motivates to achieve!
 
+## 🔗 Links
+
+- Application (under development) - https://web3goals.space
+- Subgraph - https://thegraph.com/hosted-service/subgraph/kiv1n/web3-goals
+
 ## ⚡ About
 
 Web3 Goals is a space that uses the power of web3 to give any person extra social and financial motivation to achieve their own goals.
@@ -20,9 +25,13 @@ We hope the following features help fulfill the mission:
 - Private goals with friends.
 - And a lot more...
 
-## 🔗 Application
+## ✨ Problem to be solved
 
-https://web3goals.space/
+People often set ambitious goals for themselves, but over time their motivation decreases. For this reason, they get frustrated and stop going toward their dreams.
+
+Because of this huge problem, our world is losing a lot of great ideas and projects that could make us all better.
+
+We hope that with the power of Web3 we can cope with this and come to a brighter future together.
 
 ## 🌊 User flow / Set a goal together with a staking
 
