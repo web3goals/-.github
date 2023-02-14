@@ -18,7 +18,7 @@ We hope the following features help fulfill the mission:
 - Soulbound tokens that will motivate you to be more responsible about own goals.
 - Set a goal and stake funds on it, that will only come back if you succeed.
 - Sharing the stake between the people who started watching the goal and trying to motivate the author.
-- Goals that can be validated on-chain or off-chain.
+- Goals that can be verified on-chain or off-chain.
 - Group marathons where people want to achieve the same goal.
 - Journal to record steps towards the goal.
 - AI that helps set goals and achieve them.
