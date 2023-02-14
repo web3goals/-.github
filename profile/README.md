@@ -4,8 +4,8 @@ A social space that motivates to achieve!
 
 ## 🔗 Links
 
-- Application (under development) - https://web3goals.space
-- Subgraph - https://thegraph.com/hosted-service/subgraph/kiv1n/web3-goals
+- [Application](https://web3goals.space) (under development)
+- [Subgraph](https://thegraph.com/hosted-service/subgraph/kiv1n/web3-goals) (under development)
 
 ## ⚡ About
 
