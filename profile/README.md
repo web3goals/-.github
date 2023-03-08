@@ -2,6 +2,8 @@
 
 A social space that helps any person or community to achieve their goals!
 
+The space in which everyone can set soulbound goals with a stake, verify their achievement via smart contracts and earn on-chain reputation, become a watcher of other users' goals to motivate them, or participate in challenges started by another users to win prizes.
+
 ## 🔗 Links
 
 - [Application](https://web3goals.space) (developer version)
