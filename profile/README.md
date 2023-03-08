@@ -10,13 +10,13 @@ A social space that helps any person or community to achieve their goals!
 
 ## ⚡ Features
 
-- Goals with a stake (person can set a goal and stake some funds on achieving it, which will be lost in case of failure).
-- Motivational watchers (person can send a motivational message to a goal author and become a watcher, who will receive a part of the stake if the goal is failed, otherwise motivation points).
-- Proofs of achievement (any image, file on IPFS or video on Livepeer).
-- Goals as soulbound tokens (tokens that motivate to be more responsible about own goals).
-- Account page (bio, social links, goals and statistics, aka reputation).
-- Verified goals (goals that can be verified by a contract with or without an oracle, for example, GitHub activity).
-- Challenges with prize pools for communities and DAOs (people can achieve the same goals in group).
+- Goals with a stake in achieving.
+- Watchers who motivate action.
+- Decentralized proofs of achievement.
+- Goals as soulbound tokens.
+- Account page with reputation.
+- Goals verified by smart-contracts.
+- Challenges with prize pools that can be started by communities and DAOs.
 - And a lot more...
 
 ## 🌊 User flow / Set a goal with a stake
