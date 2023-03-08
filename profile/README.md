@@ -6,9 +6,8 @@ The space in which everyone can set soulbound goals with a stake, verify their a
 
 ## 🔗 Links
 
-- [Application](https://web3goals.space) (developer version)
-- [Subgraph](https://thegraph.com/hosted-service/subgraph/kiv1n/web3-goals) (developer version)
-- [Demo App with integrated Wrapper](https://web3goals-wrapper-demo-app.vercel.app/) (developer version)
+- [Application](https://web3goals.space)
+- [Subgraph](https://thegraph.com/hosted-service/subgraph/kiv1n/web3-goals)
 
 ## ⚡ Features
 
