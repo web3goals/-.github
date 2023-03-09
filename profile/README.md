@@ -2,23 +2,14 @@
 
 A social space that helps any person or community to achieve their goals!
 
-The space in which everyone can set soulbound goals with a stake, verify their achievement via smart contracts and earn on-chain reputation, become a watcher of other users' goals to motivate them, or participate in challenges started by another users to win prizes.
+The space where you can set soulbound goal with a stake, verify its achievement via smart contracts, and earn on-chain reputation. Meanwhile, your friends and followers can take the role of motivators to inspire you and also earn a reputation.
+
+The space where your community can start a challenge to achieve a significant goal with a prize pool to boost engagement of existing members and attract new ones ones.
 
 ## 🔗 Links
 
 - [Application](https://web3goals.space)
 - [Subgraph](https://thegraph.com/hosted-service/subgraph/kiv1n/web3-goals)
-
-## ⚡ Features
-
-- Goals with a stake in achieving.
-- Watchers who motivate action.
-- Decentralized proofs of achievement.
-- Goals as soulbound tokens.
-- Account page with reputation.
-- Goals verified by smart-contracts.
-- Challenges with prize pools that can be started by communities and DAOs.
-- And a lot more...
 
 ## 🌊 User flow / Set a goal with a stake
 
