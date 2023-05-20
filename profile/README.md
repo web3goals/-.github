@@ -10,7 +10,3 @@ The space where your community can start a challenge to achieve a significant go
 
 - [Application](https://web3goals.space)
 - [Subgraph](https://thegraph.com/hosted-service/subgraph/kiv1n/web3-goals)
-
-## 🌊 User flow "Set a goal with a stake"
-
-![User flow "Set a goal with a stake"](profile/images/user-flow-set-goal-with-stake.png)
